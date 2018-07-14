@@ -1,0 +1,64 @@
+{
+  "destinations": [
+    {
+      "id": 1,
+      "title": "palawan",
+      "description": "coron palawan",
+      "image": "https://www.elnidoparadise.com/wp-content/uploads/kayangan-lake-coron-busuanga.jpg"
+    },
+    {
+      "id": 2,
+      "title": "cebu",
+      "description": "magellan cross",
+      "image": "https://cdn.travelbook.ph/static/images/areas/pictL/philippines/cebu.jpg"
+    },
+    {
+      "id": 3,
+      "title": "intramuros",
+      "description": "for santiago",
+      "image": "https://images.summitmedia-digital.com/spotph/images/articles/2016/fort-santiago2.jpg"
+    },
+    {
+      "id": 4,
+      "title": "batanes",
+      "description": "itbayat",
+      "image": "http://thehappytrip-5592.kxcdn.com/wp-content/uploads/2017/03/800px-Fundacion_Pacita_Batanes_Island_Philippines.jpg"
+    },
+    {
+      "id": 5,
+      "title": "ilocos",
+      "description": "vigan",
+      "image": "http://pilgrimage.ph/wp-content/uploads/2017/07/1.jpg"
+    },
+    {
+      "id": 6,
+      "title": "bohol",
+      "description": "chocolate hills",
+      "image": "http://www.asiaphotostock.com/itemimages/arty-chocolate-hills21984.jpg"
+    },
+    {
+      "id": 7,
+      "title": "iloilo",
+      "description": "gigantes island",
+      "image": "https://media-cdn.tripadvisor.com/media/photo-s/10/37/e6/05/cabugao-gamay-island.jpg"
+    },
+    {
+      "id": 8,
+      "title": "leyte",
+      "description": "kalnggaman island",
+      "image": "https://www.palawandays.com/wp-content/uploads/2017/07/Kalanggaman-Island-tour-900-1.jpg"
+    },
+    {
+      "id": 9,
+      "title": "sagada",
+      "description": "lumiang burial grounds",
+      "image": "https://www.smartway-travel.com/wp-content/uploads/2017/03/Sagada-Banaue-and-Baguio-1-600x350.jpg"
+    },
+    {
+      "id": 10,
+      "title": "bicol",
+      "description": "mt pinatubo",
+      "image": "http://marvellatravel.com/wp-content/uploads/2016/05/Bicol-tour-e1463598068374.jpg"
+    }
+  ]
+}
